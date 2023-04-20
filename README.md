@@ -4,7 +4,7 @@ This is a repository for a simple binaural effect simulator, designed to simulat
 
 ## Getting Started
 
-o get started, simply follow the instructions on binaural_effect.ipynb, which are written in Korean.
+To get started, simply follow the instructions on binaural_effect.ipynb, which are written in Korean.
 
 ## Requirements
 
@@ -23,3 +23,4 @@ To automatically install these libraries, run the following command:
 
 ## Notes
 
+- A final presentation document in Korean about this implementation is attached in a PDF format. However, there may be some differences between the presentation document and the implementation due to the conversion of .py files to .ipynb files.
