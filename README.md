@@ -23,4 +23,4 @@ To automatically install these libraries, run the following command:
 
 ## Notes
 
-A final presentation document in Korean about this implementation is attached in a PDF format. However, there may be some differences between the presentation document and the implementation due to the conversion of .py files to .ipynb files.
+A final presentation document in Korean about this implementation is attached in a PDF format. However, there may be some differences between the presentation document and the implementation due to the conversion of .py files to the .ipynb file.
