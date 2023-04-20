@@ -15,7 +15,7 @@ class PolarCoordinate(QWidget):
 
 
     def initUI(self):
-        self.setWindowTitle('Where Audio Comes From?')
+        self.setWindowTitle('Where does the signal come from?')
         self.move(300, 300)
         self.resize(600, 350)
         self.show()
